@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UI/Menu.unity
+    guid: 52afe32fbba8f804d921ccf7c951ad01
+  - enabled: 1
+    path: Assets/UI/Menu1.unity
+    guid: e34f824219222374992e02937e1c48a8
+  - enabled: 1
+    path: Assets/UI/Menu2.unity
+    guid: 1613ba1446e3faf4ab72dcb47c267dad
+  - enabled: 1
+    path: Assets/UI/Choose.unity
+    guid: 8c16fee2932a00d42b0d51f2203ca9b8
+  - enabled: 1
+    path: Assets/UI/Credits.unity
+    guid: b9a31a9fdd22dc246b67ff098900fbe2
+  - enabled: 1
+    path: Assets/UI/Inst.unity
+    guid: 580368ffb72d5e243b523a2ec9e84ca1
+  - enabled: 1
+    path: Assets/Multiplayer/Multi.unity
+    guid: ff5e791aeb09dbe46b53d16c0f1b3958
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+    guid: 78fa10e8db5f2a14e88934aaef80ee68
+  - enabled: 1
+    path: Assets/Levels/Level1a.unity
+    guid: 62c95c209abb3a045b6bbd12e4e5817a
+  - enabled: 1
+    path: Assets/Levels/Level2.unity
+    guid: e56a7e404ec2f9a4d8ee00ef65911c2b
+  - enabled: 1
+    path: Assets/Levels/Level2a.unity
+    guid: d251b455c5a90984a8b49546ca4112c8
+  - enabled: 1
+    path: Assets/Levels/Level3.unity
+    guid: b84b16eaff4d84045a131949b553f362
+  - enabled: 1
+    path: Assets/Levels/Level3a.unity
+    guid: d7dcd0b83e07f5648af0495ad814a028
+  - enabled: 1
+    path: Assets/Levels/Level4.unity
+    guid: f45ab15b0bf4c494592601bc8f05d946
+  - enabled: 1
+    path: Assets/Levels/Level4a.unity
+    guid: b5605559020a15f45926a4ed38a9a630
+  - enabled: 1
+    path: Assets/Levels/Level5.unity
+    guid: 3d31117f0377e804caf213429dcc41e8
+  - enabled: 1
+    path: Assets/Levels/Level5a.unity
+    guid: db36273afc77956469ce440784ed1700
+  - enabled: 1
+    path: Assets/Levels/Level6.unity
+    guid: bafd1d33efd67154496200d68c4d45ba
+  - enabled: 1
+    path: Assets/Levels/Level6a.unity
+    guid: 4403edb2b499b884f9d55aabe2196add
+  - enabled: 1
+    path: Assets/Levels/Level7.unity
+    guid: 599191381e278e84c93ce7cac4e655ad
+  - enabled: 1
+    path: Assets/Levels/Level7a.unity
+    guid: 4335ad80edd0ab24cad6df41e74043a1
+  - enabled: 1
+    path: Assets/Levels/Level8.unity
+    guid: a3f122f5f193de144a3e21c48adbf93d
+  - enabled: 1
+    path: Assets/Levels/Level8a.unity
+    guid: 57d05b01926905c47bfda206c836cf4a
+  - enabled: 1
+    path: Assets/UI/GameOver.unity
+    guid: 8c1171e0e2a0b1c4b82fb1022e269b86
+  - enabled: 1
+    path: Assets/UI/GameOver1.unity
+    guid: c7352c91d655c67418ca9a4c9ba46283
+  - enabled: 1
+    path: Assets/UI/WinMsg.unity
+    guid: 23f238c76066afb4fb298f0a25b39ece
